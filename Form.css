@@ -1,0 +1,42 @@
+.Form{
+    display:inline-block;
+    margin-left: 400px;
+    padding:100px;
+    background-color:#d3d3d3;
+          }
+
+ .FirtName{
+    font-size: 20px;
+    font-style:italic;
+       }
+
+ .LastName{
+    font-size: 20px;
+    font-style:italic; 
+
+     }
+
+.tel{
+    font-size: 20px;
+    font-style:italic;
+   } 
+.email{
+    font-size: 20px;
+    font-style:italic;
+ }
+
+  .red{
+      color:red;
+  }
+   .hide{
+     display:none;  
+   }
+
+   .inputDiv > input {
+      width: 300px;
+	  border: 1px solid black;
+	  box-shadow: 0 0 5px;
+    border-radius: 5px;
+    padding: 8px 10px;
+    color: #232327;
+   }
